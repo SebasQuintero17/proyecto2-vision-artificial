@@ -2,7 +2,7 @@
 
 Proyecto de visión artificial. Universidad de Medellín, Ingeniería de Sistemas.
 
-**Integrantes:** Sebastián Quintero Granada, (compañero 2), (compañero 3)
+**Autor:** Sebastián Quintero Granada
 
 ## Descripción
 
