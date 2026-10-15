@@ -1,0 +1,8 @@
+# Archivos que genera el notebook al ejecutarse (no se suben al repositorio)
+mejor_modelo.keras
+resultados_malla.json
+*.h5
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
